@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['git.heroku.com/vbjk12-django-todo-app.git']
+ALLOWED_HOSTS = ['vbjk12-django-todo-app.git']
 
 
 # Application definition
